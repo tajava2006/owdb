@@ -1,0 +1,12 @@
+{
+  "name": "owdb",
+  "version": "1.0.0",
+  "description": "My overwatch league viewer",
+  "main": "main.js",
+  "author": "bibek",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
