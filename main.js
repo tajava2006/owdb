@@ -13,7 +13,8 @@ app.get('/', function (req, res) {
     <title>OWDB</title>
     <meta charset="utf-8"> 
     <link rel="stylesheet" type="text/css" href="/style.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.10.2/cytoscape.esm.js"></script>   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.10.2/cytoscape.esm.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.9.4/cytoscape.min.js"></script>   
   </head>
   <body>
     <h1>asdfzxc</h1>
