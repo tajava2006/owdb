@@ -1,5 +1,3 @@
-var cytoscape = require('cytoscape');
-
 
 var cy = cytoscape({
 
